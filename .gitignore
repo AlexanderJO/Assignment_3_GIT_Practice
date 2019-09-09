@@ -20,3 +20,6 @@ target/
 .idea
 *.iml
 *.idea
+*.xml
+/.idea
+/out
